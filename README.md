@@ -1,0 +1,1 @@
+Stahovač PDF souborů z dané URL adresy
